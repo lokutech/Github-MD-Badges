@@ -23,6 +23,6 @@ This is a collection of badges to be used with Github Readme.
 </a> <br />
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-  <img src="https://img.shields.io/badge/Vanilla%20JS-v6+-grey?logo=javascript&labelColor=F7DF1E&logoColor=black"  height="22">
+  <img src="https://img.shields.io/badge/Vanilla-v6+-grey?logo=javascript&labelColor=F7DF1E&logoColor=black"  height="22">
 </a> <br />
 
