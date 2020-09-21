@@ -19,6 +19,5 @@ This is a collection of badges to be used with Github Readme.
 </a> <br />
 
 <a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/Node.js-v12.18.4-grey?logo=Node.js&labelColor=339933&logoColor=white
-"  height="22">
+  <img src="https://img.shields.io/badge/Node.js-v12.18.4-grey?logo=Node.js&labelColor=339933&logoColor=white"  height="22">
 </a> <br />
