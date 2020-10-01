@@ -23,8 +23,13 @@ This is a collection of badges to be used with Github Readme.
 </a> <br />
 
 <a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white"  height="22">
+  <img src="https://img.shields.io/badge/Bootstrap-v4.5-grey?logo=bootstrap&labelColor=563d7c&logoColor=white"  height="22">
 </a> <br />
+
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-v4.4-grey?logo=mongodb&labelColor=339933&logoColor=white"  height="22">
+</a> <br />
+
 
 <a href="https://nodejs.org/">
   <img src="https://img.shields.io/badge/Node.js-v12.18.4-grey?logo=Node.js&labelColor=339933&logoColor=white"  height="22">
