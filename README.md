@@ -6,6 +6,10 @@ This is a collection of badges to be used with Github Readme.
   <img src="https://img.shields.io/badge/Online_at_Github_Pages-success?logo=github"  height="22">
 </a>  <br />
 
+<a href="https://url-shortener-loku.herokuapp.com/">
+  <img src="https://img.shields.io/badge/Online_at_Heroku-430098?logo=heroku"  height="22">
+</a>  <br />
+
 <a href="https://www.reactjs.org">
   <img src="https://img.shields.io/badge/React-v16.13.1-grey?logo=React&labelColor=blue"  height="22">
 </a>  <br />
