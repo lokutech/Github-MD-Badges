@@ -35,7 +35,7 @@ This is a collection of badges to be used with Github Readme.
 </a> <br />
 
 <a href="https://www.npmjs.com/package/express-handlebars">
-  <img src="https://img.shields.io/badge/HandleBars-v5.1.0-grey?logo=npm&labelColor=f0772b&logoColor=white"  height="22">
+  <img src="https://img.shields.io/badge/Express--HandleBars-v5.1.0-grey?logo=npm&labelColor=white&logoColor=white"  height="22">
 </a> <br />
 
 <a href="https://www.npmjs.com/package/express">
