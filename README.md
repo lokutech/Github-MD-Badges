@@ -35,6 +35,10 @@ This is a collection of badges to be used with Github Readme.
   <img src="https://img.shields.io/badge/Node.js-v12.18.4-grey?logo=Node.js&labelColor=339933&logoColor=white"  height="22">
 </a> <br />
 
+<a href="https://www.npmjs.com/package/express-handlebars">
+  <img src="https://img.shields.io/badge/HandleBars-v5.1.0-grey?logo=npm&labelColor=f0772b&logoColor=white"  height="22">
+</a> <br />
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/Vanilla-v6+-grey?logo=javascript&labelColor=F7DF1E&logoColor=black"  height="22">
 </a> <br />
