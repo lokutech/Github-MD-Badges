@@ -26,6 +26,10 @@ This is a collection of badges to be used with Github Readme.
   <img src="https://img.shields.io/badge/Bootstrap-v4.5-grey?logo=bootstrap&labelColor=563d7c&logoColor=white"  height="22">
 </a> <br />
 
+<a href="https://materializecss.com/">
+  <img src="https://img.shields.io/badge/Materialize-v1.0.0-grey?logo=material%20design&labelColor=0081cb&logoColor=white"  height="22">
+</a> <br />
+
 <a href="https://www.mongodb.com/">
   <img src="https://img.shields.io/badge/MongoDB-v4.4-grey?logo=mongodb&labelColor=339933&logoColor=white"  height="22">
 </a> <br />
