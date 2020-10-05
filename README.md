@@ -3,7 +3,7 @@ This is a collection of badges to be used with Github Readme.
 
 
 <a href="https://lokutech.github.io/Calculator/">
-  <img src="https://img.shields.io/badge/Online_at_Github_Pages-success?logo=github"  height="22">
+  <img src="https://img.shields.io/badge/Online_at_Github_Pages-success"  height="22">
 </a>  <br />
 
 <a href="https://url-shortener-loku.herokuapp.com/">
